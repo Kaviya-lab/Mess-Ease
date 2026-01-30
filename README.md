@@ -1,73 +1,18 @@
-# Welcome to your Lovable project
+Hostel mess operations across educational institutions remain largely manual, fragmented, and inefficient, creating a persistent gap between students’ needs and mess management’s ability to respond in real time.Every day, hundreds of students arrive at mess halls without clear information on meal timings, menu changes, or service disruptions, leading to long queues, frustration, and missed meals. At the same time, mess managers are forced to estimate food demand blindly, resulting in significant food wastage on some days and shortages on others.
+There is currently no structured digital system that allows students to formally communicate their attendance intentions, feedback, complaints, or payment status, and no centralized platform that enables mess staff to track participation, analyze trends, or make data-driven decisions.
 
-## Project info
+Payments are often handled offline and manually, causing inconvenience, lack of transparency, and difficulty in tracking dues and generating reports. Complaints and suggestions are typically verbal, informal, or lost, making it nearly impossible to ensure accountability or continuous improvement.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This absence of a smart, real-time, role-based digital platform leads to:
 
-## How can I edit this code?
+Poor operational planning
 
-There are several ways of editing your application.
+High food waste and increased costs
 
-**Use Lovable**
+Low student satisfaction
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Lack of transparency and accountability
 
-Changes made via Lovable will be committed automatically to this repo.
+Inefficient financial tracking
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+MessEase aims to solve this by introducing an LMS-inspired, data-driven Smart Mess Management Platform that connects students and mess administrators in a unified digital ecosystem — enabling real-time communication, predictive meal planning, structured feedback systems, and seamless online payments to transform hostel mess operations into an efficient, transparent, and sustainable system.
